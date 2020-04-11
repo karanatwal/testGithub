@@ -2,11 +2,11 @@ package com.kandy.testgithub
 
 class SignupActivity {
 
-    fun signup(){
+    private fun signup(){
 
     }
 
-    fun validation(){
+    private fun validation(){
 
     }
 }
