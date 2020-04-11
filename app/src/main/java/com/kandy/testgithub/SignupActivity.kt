@@ -5,4 +5,8 @@ class SignupActivity {
     fun signup(){
 
     }
+
+    fun validation(){
+
+    }
 }
