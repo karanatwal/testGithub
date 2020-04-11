@@ -5,4 +5,8 @@ class Dashboard {
     fun fetchData(){
 
     }
+
+    fun deletData() {
+
+    }
 }
